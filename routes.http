@@ -33,6 +33,6 @@ Content-Type: application/json
 
 {
   "videoId": "e1d31efe-883e-4a1f-8d9f-47bd57180396",
-  "template": "Gere uma explicação baseada na filosofia humana radical: '''{transcription}'''",
+  "template": "Gere uma explicação baseada na filosofia humana: '''{transcription}'''",
   "temperature": 0.5
 }
